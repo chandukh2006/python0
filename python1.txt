@@ -1,0 +1,16 @@
+sum = 0  # Initialize sum
+
+while True:
+    userInput = input("Enter the price (or 'q' to quit):\n")
+    
+    if userInput != 'q':  # Check if input is not 'q'
+        try:
+            price = float(userInput)  # Convert input to float
+            sum += price  # Add to the sum
+            print(f"Order total so far: {sum:.2f}")
+        except ValueError:
+            print("Please enter a valid number or 'q' to quit.")
+    else:
+        print(f"Your bill total is {sum:.2f}. Thanks for shopping with us.")
+        break  # Exit the loop
+
