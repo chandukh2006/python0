@@ -19,104 +19,12 @@ This project features a basic Python script designed to function as a calculator
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/chandukh2006/python0.git
    
+   git clone https://github.com/chandukh2006/python0.git
+2.Navigate to the project directory:
+
 cd python0
 
-python3 python1.txt
-
-Enter the price (or 'q' to quit):
-
-50
-
-Order total so far: 50.00
-
-Enter the price (or 'q' to quit):
-
-25
-
-Order total so far: 75.00
-
-Enter the price (or 'q' to quit):
-
-q
-
-Your bill total is 75.00. Thanks for shopping with us.
-
-Enter the price (or 'q' to quit):
-
-100
-
-Order total so far: 100.00
-
-Enter the price (or 'q' to quit):
-
-150
-
-Order total so far: 250.00
-
-Enter the price (or 'q' to quit):
-
-q
-
-Your bill total is 250.00. Thanks for shopping with us.
-
-USAGE:
-
+3.Usage
 1.Run the Python script:
-
-python3 python1.txt
-
-2.Follow the prompts to enter item prices. Type 'q' when finished to view the final bill.
-
-Example interaction:
-
-Enter the price (or 'q' to quit):
-
-50
-
-Order total so far: 50.00
-
-Enter the price (or 'q' to quit):
-
-25
-
-Order total so far: 75.00
-
-Enter the price (or 'q' to quit):
-
-q
-
-Your bill total is 75.00. Thanks for shopping with us.
-
-Scripts Description
-
-python1.txt: The Python script that calculates the total cost of items and generates a receipt. The script prompts the user for item prices and displays the cumulative total and final bill.
-
-
-Example Output:
-
-Receipt Generation
-
-Enter the price (or 'q' to quit):
-
-100
-
-Order total so far: 100.00
-
-Enter the price (or 'q' to quit):
-
-150
-
-Order total so far: 250.00
-
-Enter the price (or 'q' to quit):
-
-q
-
-Your bill total is 250.00. Thanks for shopping with us.
-
-Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and passes all relevant tests.
+   
