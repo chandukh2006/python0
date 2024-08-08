@@ -21,10 +21,4 @@ This project features a basic Python script designed to function as a calculator
 1. Clone the repository:
    
    git clone https://github.com/chandukh2006/python0.git
-2.Navigate to the project directory:
-
-cd python0
-
-3.Usage
-1.Run the Python script:
    
