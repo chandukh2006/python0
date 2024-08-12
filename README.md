@@ -85,7 +85,7 @@ Your bill total is 250.00. Thanks for shopping with us.
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and passes all relevant tests.
 
 ## Contact
-For any questions or feedback, please open an issue in the repository or contact khchandu291@gmail.com.
+For any questions or feedback, please open an issue in the repository or contact khchandu291@gmail.com
 
 
    
